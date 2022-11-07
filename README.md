@@ -1,7 +1,7 @@
 About Book Review App
 
 ```
-Book Review is a web application using PHP/Laravel framework with expressive, elegant syntax. I believe my development must be an enjoyable and creative experience to be truly fulfilling.
+Book Review is a web application using PHP/Laravel framework.
 ```
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
@@ -50,7 +50,7 @@ password: password
 
 
 
-Watch demo at youtube channel 
+Watch demo at youtube channel Garuda72 https://www.youtube.com/watch?v=M_-6JI9C2CI
 
 ```
 Make sure to leave a start ✨✨✨
