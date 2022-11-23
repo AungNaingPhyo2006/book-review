@@ -10,7 +10,7 @@ Book Review is a web application using PHP/Laravel framework.
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/AungNaingPhyo2006/book-review
+git clone https://github.com/AungNaingPhyo2006/book-review
 ```
 
 change current directory
